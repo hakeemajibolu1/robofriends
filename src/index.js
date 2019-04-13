@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App'; //Changed 'CardList' to 'App' as parent to all components
+import App from './containers/App'; //Changed 'CardList' to 'App' as parent to all components
 import * as serviceWorker from './serviceWorker';
 import 'tachyons';
 
